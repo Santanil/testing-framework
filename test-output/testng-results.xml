@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T13:43:41 IST" name="Default suite" finished-at="2023-06-26T13:43:59 IST" duration-ms="18167">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T13:43:41 IST" name="Default test" finished-at="2023-06-26T13:43:59 IST" duration-ms="18167">
+      <class name="tests.FooterLinkValidation">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.FooterLinkValidation@77847718]" started-at="2023-06-26T13:43:40 IST" name="beforeSuite" finished-at="2023-06-26T13:43:41 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.FooterLinkValidation@77847718]" started-at="2023-06-26T13:43:41 IST" name="beforeMethod" finished-at="2023-06-26T13:43:43 IST" duration-ms="2564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC1_DiscountCoupons()[pri:0, instance:tests.FooterLinkValidation@77847718]" started-at="2023-06-26T13:43:43 IST" name="TC1_DiscountCoupons" finished-at="2023-06-26T13:43:58 IST" duration-ms="15008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1_DiscountCoupons -->
+        <test-method is-config="true" signature="afterMathod(org.testng.ITestResult)[pri:0, instance:tests.FooterLinkValidation@77847718]" started-at="2023-06-26T13:43:58 IST" name="afterMathod" finished-at="2023-06-26T13:43:59 IST" duration-ms="515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC1_DiscountCoupons status=SUCCESS method=FooterLinkValidation.TC1_DiscountCoupons()[pri:0, instance:tests.FooterLinkValidation@77847718] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMathod -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tests.FooterLinkValidation@77847718]" started-at="2023-06-26T13:43:59 IST" name="afterSuite" finished-at="2023-06-26T13:43:59 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.FooterLinkValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
